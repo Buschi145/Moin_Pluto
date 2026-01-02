@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "models": [
+    {
+      "name": "Moin Pluto",
+      "model_type": "tflite_micro",
+      "path": "Moin_Pluuuto.tflite",
+      "probability_cutoff": 0.5,
+      "sliding_window_size": 10
+    }
+  ]
+}
